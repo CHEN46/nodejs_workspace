@@ -3,7 +3,7 @@ This project uses Echarts and Leaflet for building visualization about covid-19.
 
    You can recap packages and APIs in node_modules folder.
 
-    1. Confirmed people wordwild (almost complete)
+    1. Confirmed people wordwild (almost done)
   
     Mainly showing process in demo.html (!!! please ignore index.html !!!).
 
