@@ -3,7 +3,7 @@ This project uses Echarts and Leaflet for building visualization about covid-19.
 
    You can recap packages and APIs in node_modules folder.
 
-    1. Confirmed people worldwild (almost done)
+    1. Confirmed people worldwide (almost done)
   
     Mainly showing process in demo.html (!!! please ignore index.html !!!).
 
